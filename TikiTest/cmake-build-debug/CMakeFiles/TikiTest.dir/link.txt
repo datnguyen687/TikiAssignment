@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TikiTest.dir/main.cpp.o CMakeFiles/TikiTest.dir/product/CProductManager.cpp.o CMakeFiles/TikiTest.dir/engine/CEngine.cpp.o CMakeFiles/TikiTest.dir/user/CUser.cpp.o CMakeFiles/TikiTest.dir/user/CUserManager.cpp.o CMakeFiles/TikiTest.dir/rule/CRuleManager.cpp.o  -o TikiTest -ljsoncpp -ljsoncpp 

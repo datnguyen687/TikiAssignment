@@ -1,0 +1,3 @@
+/home/dat/CLionProjects/TikiTest/build/CMakeFiles/rebuild_cache.dir
+/home/dat/CLionProjects/TikiTest/build/CMakeFiles/edit_cache.dir
+/home/dat/CLionProjects/TikiTest/build/CMakeFiles/TikiTest.dir
